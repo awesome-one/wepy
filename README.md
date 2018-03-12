@@ -1,1 +1,1 @@
-# wepy
+# wepy resources
